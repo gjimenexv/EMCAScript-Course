@@ -1,0 +1,24 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "proyecto inicial en el mundo JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "junior",
+    "learning",
+    "platzi"
+  ],
+  "author": "Guillermo Jimenez <guillejim5@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "-": "^0.0.1",
+    "n": "^9.0.0",
+    "node-fetch": "^3.2.10"
+  }
+}
